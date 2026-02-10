@@ -14,4 +14,4 @@ Zero Coercion: Notifications, streaks, or UI patterns are only used to support u
 
 Organic Growth: Designed for individual clarity first.
 
-🌐 Part of an emerging ecosystem of tools for consciousness. See also: Signal Forge
+🌐 Part of an emerging ecosystem of tools for consciousness. See also: [Signal Forge](https://github.com/dudu5/signal-forge)
