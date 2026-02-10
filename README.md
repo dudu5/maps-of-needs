@@ -17,8 +17,8 @@ The User Journey
 
 🏗 Information Architecture
   The app is built on a [robust hierarchical framework of human needs](https://github.com/dudu5/maps-of-needs/blob/main/Full%20list%20(needs%20with%20children).txt):
-  - 9 [Parent Domains](https://github.com/dudu5/maps-of-needs/blob/main/Children%20definitions.txt): Presence, Cognitive Fulfillment, Rest, Identity, Social Connection, Safety, Autonomy, Health, and Purpose.
-  - 27 [Child Sub-categories](https://github.com/dudu5/maps-of-needs/blob/main/Parent%20definitions.txt): Including Detached Awareness, Inner Parts, Boundaries, and Absorbed Engagement (Flow).
+  - 9 [Parent Domains](https://github.com/dudu5/maps-of-needs/blob/main/Parent%20definitions.txt): Presence, Cognitive Fulfillment, Rest, Identity, Social Connection, Safety, Autonomy, Health, and Purpose.
+  - 27 [Child Sub-categories](https://github.com/dudu5/maps-of-needs/blob/main/Children%20definitions.txt): Including Detached Awareness, Inner Parts, Boundaries, and Absorbed Engagement (Flow).
   - The Transmit Function: Once a snapshot is created, the data can be "transmitted" to the Signal Forge for deeper structural analysis and reflection.
 
 🛠 Initial Technical Goals
