@@ -16,9 +16,9 @@ The User Journey
 
 🏗 Information Architecture
   The app is built on a robust hierarchical framework of human needs:
-  9 Parent Domains: Presence, Cognitive Fulfillment, Rest, Identity, Social Connection, Safety, Autonomy, Health, and Purpose.
-  27 Child Sub-categories: Including Detached Awareness, Inner Parts, Boundaries, and Absorbed Engagement (Flow).
-  The Transmit Function: Once a snapshot is created, the data can be "transmitted" to the Signal Forge for deeper structural analysis and reflection.
+    9 Parent Domains: Presence, Cognitive Fulfillment, Rest, Identity, Social Connection, Safety, Autonomy, Health, and Purpose.
+    27 Child Sub-categories: Including Detached Awareness, Inner Parts, Boundaries, and Absorbed Engagement (Flow).
+    The Transmit Function: Once a snapshot is created, the data can be "transmitted" to the Signal Forge for deeper structural analysis and reflection.
 
 🛠 Initial Technical Goals
   Local-First Vault: Data must be physically and cryptographically owned by the user. If we can see the data, the user cannot be radically honest.
@@ -39,6 +39,7 @@ I host weekly open circles in Kraków and close, payed groups = early adopters r
 🌐 Part of an emerging ecosystem of tools for consciousness. See also: [Signal Forge](https://github.com/dudu5/signal-forge)
 
 <img width="342" height="686" alt="image" src="https://github.com/user-attachments/assets/f5db19fc-0760-45c1-a746-11d2106966cd" />
+<img width="340" height="685" alt="image" src="https://github.com/user-attachments/assets/a41d9f68-dc8c-4f88-b6d6-0e9b6ad1336d" />
 <img width="341" height="686" alt="image" src="https://github.com/user-attachments/assets/dbd2e548-8e73-4840-98a4-8d6de66063ab" />
 <img width="336" height="679" alt="image" src="https://github.com/user-attachments/assets/1ffd4b6f-8198-4653-9b7e-fed6d37adeda" />
 
