@@ -43,4 +43,6 @@ I host weekly open circles in Kraków and close, payed groups = early adopters r
 <img width="340" height="685" alt="image" src="https://github.com/user-attachments/assets/a41d9f68-dc8c-4f88-b6d6-0e9b6ad1336d" />
 <img width="341" height="686" alt="image" src="https://github.com/user-attachments/assets/dbd2e548-8e73-4840-98a4-8d6de66063ab" />
 <img width="336" height="679" alt="image" src="https://github.com/user-attachments/assets/1ffd4b6f-8198-4653-9b7e-fed6d37adeda" />
+<img width="1040" height="581" alt="image" src="https://github.com/user-attachments/assets/bf42ecbe-6bb4-463b-ba95-34beb8d31520" />
+
 
