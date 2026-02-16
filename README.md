@@ -1,19 +1,19 @@
-Maps of Needs
+Maps of Needs  
+The Mission:  
+A private, mobile-first space for somatic and psychological mapping. Know where you are, so you can find the way to where you want to be.
 
-The Mission: A private, mobile-first space for somatic and psychological mapping. Know where you are, so you can find the way to where you want to be.
-
-🔴 The Problem: The "Lost" Self
-  → Without a map, we are lost. Most people live in a state of chronic reactivity because they cannot identify their unmet needs. We confuse "dopamine cravings" with "authentic wants," leading to 
+🔴 The Problem: The "Lost" Self  
+→ Without a map, we are lost. Most people live in a state of chronic reactivity because they cannot identify their unmet needs. We confuse "dopamine cravings" with "authentic wants," leading to 
   exhaustion and self-betrayal.
 
-🟢 The Solution: A Navigation System for Being
+🟢 The Solution: A Navigation System for Being  
   → Maps of Needs is a tool for Presence & Awareness. It allows users to create a "current state snapshot" by auditing their lives across 9 core parent domains and 27 sub-categories (children).
 
-The User Journey
-  The Pulse: Take 5-7 minutes to assess specific domains (e.g., "Autonomy & Freedom").
-  - The Mapping: Rate statements on a 7-point scale to identify what is Integrated, Developing, or Emerging.
-  - The Snapshot: View a prioritized ranking of need sub-categories based on your mapping.
-  - The Direction: Choose specific areas of focus (e.g., "Dopamine Awareness") to move toward with intention.
+The User Journey  
+  The Pulse: Take 5-7 minutes to assess specific domains (e.g., "Autonomy & Freedom").  
+  - The Mapping: Rate statements on a 7-point scale to identify what is Integrated, Developing, or Emerging.  
+  - The Snapshot: View a prioritized ranking of need sub-categories based on your mapping.  
+  - The Direction: Choose specific areas of focus (e.g., "Dopamine Awareness") to move toward with intention.  
 
 🏗 Information Architecture
   The app is built on a [robust hierarchical framework of human needs](https://github.com/dudu5/maps-of-needs/blob/main/Full%20list%20(needs%20with%20children).txt):
